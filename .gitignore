@@ -2,6 +2,6 @@
 .venv
 .idea
 requirements.txt
-.gitignore
+.gitignore/
 env_read.py
-README.md
+README.md/
